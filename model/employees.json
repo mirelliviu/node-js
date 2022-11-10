@@ -1,0 +1,14 @@
+[
+    {
+        "_id"        : "6366c5f54f9f0ffdd2f0cdd3",
+        "firstname" : "Dave",
+        "lastname"  : "Gray",
+        "__v": 0
+    },
+    {
+        "_id"        : "6366c66c4f9f0ffdd2f0cdd6",
+        "firstname" : "John",
+        "lastname"  : "Doe",
+        "__v": 0
+    }
+]

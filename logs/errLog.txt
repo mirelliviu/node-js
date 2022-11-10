@@ -1,0 +1,11 @@
+2022-10-31	22:40:29	d57bcecf-a783-4ca7-8ab7-cab5b4ea5f8f	Error: Not allowed by CORS
+2022-11-04	23:50:50	3d2e9c76-dc44-4861-8b35-f5d12064bf83	ReferenceError: err is not defined
+2022-11-05	17:26:59	df54beb6-4fd4-4338-8f44-73ff22db0345	ReferenceError: whitelist is not defined
+2022-11-05	17:27:04	7b5c20d3-46cd-4f37-97cd-843660d16ec2	ReferenceError: whitelist is not defined
+2022-11-05	19:35:55	b7885466-0c13-48f9-9f9c-c23cca9166f9	TypeError: Cannot read properties of undefined (reading 'username')
+2022-11-05	19:43:43	9be73daf-cfb2-43ba-aa8b-4231da6a6b86	TypeError: Cannot read properties of undefined (reading 'username')
+2022-11-05	19:43:44	1e2c9a64-d186-4e46-ab9a-db687e00b179	TypeError: Cannot read properties of undefined (reading 'username')
+2022-11-05	20:18:37	d5dbc1a6-aee3-4e43-a587-8e87ad08a7af	ReferenceError: roles is not defined
+2022-11-05	20:21:51	f1e2cd43-7e2f-47b1-96a3-293a70553d58	ReferenceError: roles is not defined
+2022-11-05	20:21:54	1401fffb-e5b2-46b1-9fd1-1cb78833ba1a	ReferenceError: roles is not defined
+2022-11-05	20:23:28	a2184390-05a5-4558-9317-bb9238f66ae0	ReferenceError: roles is not defined
