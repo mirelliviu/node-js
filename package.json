@@ -1,13 +1,13 @@
 {
   "name": "nodetutorial",
   "version": "1.0.0",
-  "description": "express tutorial",
+  "description": "mongo_db",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "liviu",
+  "author": "mirelliviu",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
