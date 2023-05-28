@@ -9,3 +9,71 @@
 2022-11-05	20:21:51	f1e2cd43-7e2f-47b1-96a3-293a70553d58	ReferenceError: roles is not defined
 2022-11-05	20:21:54	1401fffb-e5b2-46b1-9fd1-1cb78833ba1a	ReferenceError: roles is not defined
 2022-11-05	20:23:28	a2184390-05a5-4558-9317-bb9238f66ae0	ReferenceError: roles is not defined
+2022-12-08	22:36:12	ccf7cd6b-672f-41e4-9e3a-c8cd5fe4a852	Error: Not allowed by CORS
+2022-12-08	22:36:12	227aadbb-442b-48c0-b2ef-1eb6706f485c	Error: Not allowed by CORS
+2022-12-09	00:14:11	19dbccac-8ae9-4818-b4fc-95ebb6989a72	SyntaxError: Unexpected token o in JSON at position 1
+2022-12-09	00:15:40	5a0f8035-f817-4905-8c4a-5210af49c5b4	SyntaxError: Unexpected token o in JSON at position 1
+2022-12-09	00:18:14	f2d262f9-36df-453c-9c45-1593722b5cfb	SyntaxError: Unexpected token t in JSON at position 0
+2022-12-09	00:20:06	331a3274-832b-4f3a-bed6-437e28744d6b	SyntaxError: Unexpected token t in JSON at position 0
+2022-12-09	00:20:47	5054e403-2346-4f5f-a295-1e5da01b5673	SyntaxError: Unexpected token t in JSON at position 0
+2022-12-09	00:22:06	dd60d65d-e147-4105-aefa-5647d3d8b54f	SyntaxError: Unexpected token t in JSON at position 0
+2022-12-09	00:34:18	c43744b6-5e67-453d-a0e3-2ee0027c0620	SyntaxError: Unexpected token 1 in JSON at position 0
+2022-12-09	00:37:02	4ec15dbb-d3e7-4761-aebd-5109232e21d4	SyntaxError: Unexpected token 2 in JSON at position 0
+2022-12-09	00:38:18	9bb2bc42-25c7-4428-a61e-b31ca1a9b214	SyntaxError: Unexpected token 2 in JSON at position 0
+2022-12-09	00:41:12	c7c384e0-86a7-4956-b891-f56f900f6671	SyntaxError: Unexpected token 1 in JSON at position 0
+2022-12-09	00:44:19	b9add64f-0e51-45c3-a69f-7ef7c7f9a34e	SyntaxError: Unexpected token 2 in JSON at position 0
+2022-12-09	00:45:34	a3e3be91-4eae-4139-a9df-66b6e7241b3f	SyntaxError: Unexpected token 1 in JSON at position 0
+2022-12-09	00:47:33	2f9b29c0-71fc-48d1-bff4-e35a2642a764	SyntaxError: Unexpected token 2 in JSON at position 0
+2022-12-09	00:57:36	14715529-b9eb-45f5-b1b2-24fa9b1f2c89	SyntaxError: Unexpected token 1 in JSON at position 0
+2022-12-09	01:02:35	b97eaf5c-d95e-4ff7-9dea-64fa6991171d	SyntaxError: Unexpected token 2 in JSON at position 0
+2022-12-09	01:06:55	753eb248-33c7-4d34-b043-58d077ab238e	SyntaxError: Unexpected token 1 in JSON at position 0
+2022-12-09	01:07:54	13eed242-7714-4b00-bc5c-76644d4758b4	SyntaxError: Unexpected token o in JSON at position 1
+2022-12-09	01:09:09	59945621-0e2b-4fec-9695-8c2e79e3d671	SyntaxError: Unexpected token o in JSON at position 1
+2022-12-09	01:15:41	ee2ee3c2-c4cb-4714-ab2f-721b014ddefc	Error: Not allowed by CORS
+2022-12-09	01:15:41	c820d5f9-5cb6-4069-a77c-434d34bb4f4d	Error: Not allowed by CORS
+2022-12-09	01:16:30	65497509-4199-4d9d-9786-5c2126ad7d84	SyntaxError: Unexpected token o in JSON at position 1
+2022-12-09	01:20:51	40b78b92-744b-4476-a6da-f66f46a45261	SyntaxError: Unexpected token o in JSON at position 1
+2022-12-09	01:26:05	5201cbee-24e1-43a6-b2f1-9d112906162f	SyntaxError: Unexpected token o in JSON at position 1
+2022-12-09	01:28:42	bf6f98b6-fbb1-4e96-9e1d-5976b7e7bec7	SyntaxError: Unexpected token o in JSON at position 1
+2022-12-09	01:31:28	b3b3a7c3-573b-4ec0-a057-0ed01adbd65b	SyntaxError: Unexpected token o in JSON at position 1
+2022-12-09	01:32:33	b7b25dad-c2a4-451c-8910-ae871529e4f0	SyntaxError: Unexpected token o in JSON at position 1
+2022-12-09	01:40:44	2fd62368-3ebe-4abf-ae78-f89760554e65	SyntaxError: Unexpected token o in JSON at position 1
+2022-12-09	02:14:12	7238a7c0-d4b1-4b8b-9186-d5610bbd6672	SyntaxError: Unexpected token o in JSON at position 1
+2022-12-12	20:57:49	1973f7ec-7423-4d18-8ed7-7ef81d8e8ee1	Error: Not allowed by CORS
+2022-12-12	20:57:49	7f7ed6f9-1960-4fdc-b749-a786a58c1329	Error: Not allowed by CORS
+2022-12-12	20:59:48	d14b18f2-58c2-47ea-a0c7-ded2b08fe4db	Error: Not allowed by CORS
+2022-12-12	20:59:48	f3ba7ed4-1e49-4e35-a844-efba19000927	Error: Not allowed by CORS
+2022-12-12	20:59:49	807096b9-cfc3-4ad2-bdaa-2a8d88710ca1	Error: Not allowed by CORS
+2022-12-12	20:59:49	9aff0ab2-0cd0-41d2-bc9d-6975d5e0a3b4	Error: Not allowed by CORS
+2022-12-12	20:59:49	3f9d916f-3e2f-4fb4-93d7-f73a2889a36a	Error: Not allowed by CORS
+2022-12-12	20:59:49	b45acdf2-1760-4e11-88aa-d563ec83875e	Error: Not allowed by CORS
+2022-12-16	23:14:43	fa7e2c9b-9ed6-4808-8dc2-97b99f1656a6	TypeError: Cannot read properties of null (reading 'message')
+2022-12-16	23:14:50	68ddc575-e10a-40c8-9699-ea0434d959fa	TypeError: Cannot read properties of null (reading 'message')
+2022-12-16	23:16:51	3a120cf7-8e91-47cc-aed0-c479f2ff5c2b	TypeError: Cannot read properties of null (reading 'message')
+2022-12-16	23:16:51	da0a6a04-13e8-4aee-acf0-24671cedd7b7	TypeError: Cannot read properties of null (reading 'message')
+2022-12-16	23:25:47	7268cfd5-b436-4040-96cf-d01b5792de2b	TypeError: Cannot read properties of null (reading 'message')
+2022-12-16	23:25:47	6bd0338b-1708-4f18-99b5-afeb20216978	TypeError: Cannot read properties of null (reading 'message')
+2022-12-16	23:37:41	8c0b0fd0-fc60-43a4-aeb3-b2de1e065c33	TypeError: Cannot read properties of null (reading 'message')
+2022-12-16	23:37:41	3d1abe92-ca1d-414e-b488-00b87684e143	TypeError: Cannot read properties of null (reading 'message')
+2022-12-16	23:39:00	7edd2b6b-564f-47f9-9939-76e633302ec8	TypeError: Cannot read properties of null (reading 'message')
+2022-12-16	23:43:43	d49eb63d-5272-471b-a6b2-a43cf9e95deb	TypeError: Cannot read properties of null (reading 'message')
+2022-12-16	23:43:50	705bf865-53d0-4c30-a1c1-804092f98a09	TypeError: Cannot read properties of null (reading 'message')
+2022-12-16	23:43:50	d02ef3e6-eb24-412a-9b71-544551dc3384	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	00:03:13	290542d8-f312-4a7b-bcd6-65def04f1309	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	00:05:12	bcb38783-b7a1-400c-a4b0-cc63bec01e22	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	00:11:55	68a34c92-0ae1-40aa-b77c-9f8b4cfef54a	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	00:11:55	c784bbfc-8402-40aa-adba-1f211858ff97	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	00:21:46	2fdf55fc-c8fe-461f-8f73-93e735bb6824	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	00:31:34	04bede15-b9e0-4af5-87f3-18d7302ba47c	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	00:44:39	006ab5ec-0407-4957-8351-9ba067615187	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	00:44:48	b9c6cee3-d191-4a77-99ca-de1e2613ca4b	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	00:44:48	2d7a632b-03c6-4bd0-ac52-3b17c4ae2c69	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	00:45:34	a478eb2b-05fe-45bf-ae13-b1048e0e1989	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	00:59:55	abbd834e-ef54-4b7c-80c9-9587ad973bd2	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	00:59:57	f7ff2c79-bc11-4f2b-9e76-66ab85bd8946	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	01:00:48	697e8446-b2ce-4e25-a192-e58f544da557	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	01:05:02	6d63c769-319b-4514-9b50-4bf86180075a	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	01:08:17	2f272d67-360d-4af2-a1de-0c20c9188482	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	01:08:22	048bdf7a-4ae2-474a-a116-a5cb5d931a7d	TypeError: Cannot read properties of null (reading 'message')
+2022-12-17	01:14:30	2a7d0468-7fa6-4ebd-8f2a-e98e55237f12	TypeError: Cannot read properties of null (reading 'message')
+2022-12-26	22:48:51	9604bf46-4bfa-4ccd-9778-ad59550600b8	PayloadTooLargeError: request entity too large
